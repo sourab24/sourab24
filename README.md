@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Sourab 👋
 
-<!--
-**sourab24/sourab24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Software Engineer | C & Linux Enthusiast  
+- ⚡ Interested in Networking, SDR, and Embedded Systems  
+- 📚 Currently learning Bash scripting, Docker, and advanced Linux networking  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C, C++, Python, Bash  
+- **Tools & Platforms:** Git, Docker, Wireshark, GCC, GDB, Linux, ARM SoCs, Xilinx ZC706  
+- **Domains:** Embedded Systems, Networking, SDR, Performance Optimization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🔹 NIL 
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourab24&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect With Me
+- 📫 Email: sourab.aran@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sourab24/) 
